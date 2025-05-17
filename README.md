@@ -1,4 +1,4 @@
-# Dictionary Search Chrome Extension
+# Daniel Dictionary
 
 A simple Chrome extension that allows users to search for words across multiple dictionary websites simultaneously.
 
