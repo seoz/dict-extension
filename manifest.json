@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Dictionary Search",
+  "version": "1.0",
+  "description": "Search words in multiple dictionaries",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+} 
