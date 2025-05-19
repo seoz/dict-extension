@@ -7,9 +7,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
   function openDictionaryTabs(word) {
     const urls = [
-      `https://dictionary.cambridge.org/pronunciation/english/${word}`,
       `https://www.google.com/search?q=define+${word}`,
-      `https://en.dict.naver.com/#/search?query=${word}`
+      `https://en.dict.naver.com/#/search?query=${word}`,
+      `https://dictionary.cambridge.org/pronunciation/english/${word}`
     ];
 
     urls.forEach(url => {
